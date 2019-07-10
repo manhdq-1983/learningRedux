@@ -1,1 +1,1 @@
-## learning redux: action, reducer, store
+## learning redux: action, reducer, store, middleware
